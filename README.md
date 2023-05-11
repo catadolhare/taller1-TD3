@@ -3,6 +3,7 @@
 Este es el primer taller en C++ de la Materia Tecnología Digital III: Algoritmos y Estructuras de Datos.
 
 **Instrucciones dadas por catedra**
+
 Reglas del juego:
 El objetivo del juego es adivinar una palabra secreta de 5 letras en español. Para eso se tienen 6 oportunidades para intentar ingresar la palabra correcta.
 Luego de cada intento el juego indica, por cada letra de la palabra ingresada, si la palabra secreta contiene esa letra en esa posición, si la palabra secreta contiene esa letra pero en otra posición, o si la palabra secreta no contiene esa letra.
